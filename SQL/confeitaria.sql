@@ -18,7 +18,7 @@ INSERT INTO tbl_cliente (id_cliente, nome) VALUES
 CREATE TABLE tbl_produto (
 			id_produto INT,
 			valor_kg FLOAT,
-			descricao VARCHAR (200)
+			descricao VARCHAR (200),
 			PRIMARY KEY (id_produto)
 );
 

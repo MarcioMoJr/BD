@@ -46,7 +46,7 @@ CREATE TABLE tbl_pedido (
 INSERT INTO tbl_pedido (numero, id_produto, cod_cliente, quantidade, data_elaboracao) VALUES
 		(24, 1, 103, 10, '2026/07/22'),
 		(26, 3, 102, 50, '2026/07/19'),
-		(8, 2, 101, 23, '2026/07/ 28');
+		(8, 2, 101, 23, '2026/07/28');
 
 		SELECT * FROM tbl_pedido;
 
